@@ -1,4 +1,6 @@
 {
+  "name": "aws-node-http-api",
+  "version": "0.0.2",
   "devDependencies": {
     "serverless-offline": "^12.0.4"
   }
