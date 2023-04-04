@@ -6,7 +6,7 @@ provider:
   runtime: nodejs16.x
   region: us-east-1
   stage: dev
-  profile: ${file(./serverlessEnv.yml):awsProfile}
+  profile: ${file(./serverlessEnv.yml):dev.awsProfile}
 
 functions:
   api:

@@ -1,0 +1,4 @@
+dev:
+  awsProfile: serverless-apis-temp
+stg:
+  awsProfile: awsuser
